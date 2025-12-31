@@ -2,7 +2,7 @@
 
 ## Students
 * Imree Cohen 312359284
-* Eyal Shtienmetz 314884834
+* Eyal Shtinmetz 314884834
 
 ## Submission Folder
 inside the submission folder you can find the requested jar files :)
