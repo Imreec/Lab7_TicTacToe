@@ -2,7 +2,7 @@
 
 ## Students
 * Imree Cohen 312359284
-* Eyal Shtienmetz 314884834
+* Eyal Shtinmetz 314884834
 
 ## Execution Proof
 Here are pictures of the game running on two different computers:
